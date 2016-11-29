@@ -1,0 +1,19 @@
+{
+  "name": "cli-twitter",
+  "version": "1.0.0",
+  "description": "A Command Line Interface for Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Genevieve Osuorji",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "clear": "0.0.1",
+    "clui": "^0.3.1",
+    "figlet": "^1.2.0",
+    "inquirer": "^1.2.3",
+    "twitter": "^1.4.0"
+  }
+}
